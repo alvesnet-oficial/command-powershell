@@ -5,3 +5,5 @@ Ex:
 
 Rename-Computer -NewName DESKTOP01
 
+AVISO: As alterações entrarão em vigor depois que você reiniciar o computador
+
